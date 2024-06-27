@@ -9,3 +9,4 @@ Requirements:
  1x Arduino
  2x limit sensor (upside & downside of the window)
  1x light sensor
+ 1x servo motor
