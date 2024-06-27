@@ -1,0 +1,3 @@
+on start, it should run a setup run, then it should automatically adjust the window cover by % of light the sensor is receiving. 
+say goodbye to closing windows with your hands, now you can make the sun close or open it for you! 
+(adjust the code as you want Sun=openWindow or Sun=closeWindow)
